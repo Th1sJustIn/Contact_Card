@@ -1,11 +1,10 @@
 BEGIN:VCARD
-VERSION:4.0
-PRODID:-//BBros.us llc//bvCard.com//EN
+VERSION:3.0
 N:Marshall;Justin;;;
 FN:Justin Marshall
-EMAIL:jmarshallofficial2@gmail.com
-ORG:Aspiring Software Engineer
-TEL:7707560467
-URL;type=pref:https://github.com/Th1sJustIn?tab=repositories
+TITLE:Backend & Product Engineer
+EMAIL;type=INTERNET;type=WORK:jmarshallofficial2@gmail.com
+TEL;type=CELL:7707560467
+URL;type=pref:https://justinmarshall.dev
 URL:https://www.linkedin.com/in/justin-marshall-0b570226a/
 END:VCARD
